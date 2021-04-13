@@ -8,7 +8,8 @@ This document bla bla bla
 
 this project will do heavy use of experimental mechanics.
 The purpose of this project will be a remake of ONE of the routes of the very frist chapter of the game Corpse Party as a short proof of concept.
-"Why you decided to remake of a game which nobody here ever played?? We don't even like horror!"
+
+-"Why you decided to remake of a game which nobody here ever played?? We don't even like horror!"
 
 ## Notes
 This is the first time I ever used github（ ﾟДﾟ) the formatting was *"inspired"* by Birb's Research Sheet.
