@@ -1,5 +1,5 @@
 # AI Dungeon Group Scenario
-- [Not good creating names](#im sorry)
+- [Not good creating names](#AI Dungeon Group Scenario)
   * [Proposal](#proposal)
   * [Notes](#notes)
 
