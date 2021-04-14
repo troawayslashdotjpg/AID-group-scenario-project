@@ -1,4 +1,5 @@
 # AI Dungeon Group Scenario
+- [AI Dungeon World Info Research and Reference](#ai-dungeon-world-info-research-and-reference)
 - [Not good creating names](#AI Dungeon Group Scenario)
   * [Proposal](#proposal)
   * [Notes](#notes)
