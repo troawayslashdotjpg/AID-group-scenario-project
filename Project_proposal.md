@@ -17,4 +17,4 @@ AID Group Scenario is ~as the name says~ a initiative to make a roleplay adventu
 This can also be called a challenge because, as far as the author knows, this has never been tried with so many people.
 
 ## Objectives
-The group's first work will ne to recreate a small part of chapter 1 from Corpse Party, a horror ~walking simulator~ RPG with some visual novel tropes
+The group's first work will ne to recreate a small part of chapter 1 from Corpse Party, a horror ~walking simulator~ RPG with some visual novel tropes.
