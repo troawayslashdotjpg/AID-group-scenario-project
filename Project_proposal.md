@@ -14,7 +14,12 @@ https://github.com/valahraban/AID-World-Info-research-sheet/blob/main/AID%20WI%2
 
 ## Introduction
 AID Group Scenario is ~as the name says~ a initiative to make a roleplay adventure in the interactive deep-learning-based game called AI Dungeon;
-This can also be called a challenge because, as far as the author knows, this has never been tried with so many people.
+Doing a scenario with over a dozen people can also be called a challenge, as far as the author knows this has never been done before [¹](#¹)
+
+
 
 ## Objectives
 The group's first work will ne to recreate a small part of chapter 1 from Corpse Party, a horror ~walking simulator~ RPG with some visual novel tropes.
+Every single line of text used in this scenario will be made publicaly available in this Repo.
+
+¹lacks_source
