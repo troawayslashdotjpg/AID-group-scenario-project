@@ -8,7 +8,7 @@ This is the first time I ever used github（ ﾟДﾟ) the formatting was *"insp
 https://github.com/valahraban/AID-World-Info-research-sheet/blob/main/AID%20WI%20Research%20Sheet.md#zaltys-formats
 
 ## Preface
-* I'd like to dedicate this line of text to my dog. [funky_bauducco_cat]
+* I'd like to dedicate this line of text to my dog. - funky_bauducco_cat
 
 
 ## Introduction
