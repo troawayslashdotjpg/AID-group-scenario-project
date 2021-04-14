@@ -9,6 +9,7 @@ https://github.com/valahraban/AID-World-Info-research-sheet/blob/main/AID%20WI%2
 
 ## Preface
 * I'd like to dedicate this line of text to my dog. - funky_bauducco_cat
+* Anyone who enters the group can have a 60 chracters long dedicatory line here.
 
 
 ## Introduction
@@ -16,4 +17,4 @@ AID Group Scenario is ~as the name says~ a initiative to make a roleplay adventu
 This can also be called a challenge because, as far as the author knows, this has never been tried with so many people.
 
 ## Objectives
-The challenge 
+The group's first work will ne to recreate a small part of chapter 1 from Corpse Party, a horror ~walking simulator~ RPG with some visual novel tropes
